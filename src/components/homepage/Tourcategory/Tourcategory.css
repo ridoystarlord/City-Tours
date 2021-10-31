@@ -1,0 +1,55 @@
+.hiking h3{
+    color: #38a4f1;
+}
+
+.hiking:hover{
+    background-color: #38a4f1;
+}
+.hiking:hover h3{
+    color: white;
+}
+
+.sea-beach h3{
+    color: #f85ba6;
+}
+
+.sea-beach:hover{
+    background-color: #f85ba6;
+}
+.sea-beach:hover h3{
+    color: white;
+}
+
+.mountain h3{
+    color: #10e9dd;
+}
+
+.mountain:hover{
+    background-color: #10e9dd;
+}
+.mountain:hover h3{
+    color: white;
+}
+
+.couple-tour h3{
+    color: #ffa877;
+}
+
+.couple-tour:hover{
+    background-color: #ffa877;
+}
+.couple-tour:hover h3{
+    color: white;
+}
+
+
+.night h3{
+    color: #4d66e6;
+}
+
+.night:hover{
+    background-color: #4d66e6;
+}
+.night:hover h3{
+    color: white;
+}

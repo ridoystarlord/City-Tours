@@ -1,0 +1,42 @@
+.bg-banner{
+    background-image: url("../../../images/bg-banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.banner-title{
+    font-size: 60px;
+}
+.bg-banner-opacity{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 80vh;
+}
+.bg-banner-container{
+    height: 80vh;
+}
+
+@media screen and (max-width: 480px) {
+    .banner-title{
+        font-size: 35px;
+    }
+    .banner-tagline{
+        font-size: 16px !important;
+    }
+  }
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    .banner-title{
+        font-size: 40px;
+    }
+    .banner-tagline{
+        font-size: 18px !important;
+    }
+  }
+  @media screen and (min-width: 769px) and (max-width: 991px) {
+    .banner-title{
+        font-size: 45px;
+    }
+    .banner-tagline{
+        font-size: 20px !important;
+    }
+  }
+  

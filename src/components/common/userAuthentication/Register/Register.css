@@ -1,0 +1,10 @@
+.google-icon{
+    color: #e04f67;
+}
+.registerBtn:hover {
+    color: white !important;
+    background-color: #e04f67;
+}
+.registerBtn:hover .google-icon{
+    color: white;
+}

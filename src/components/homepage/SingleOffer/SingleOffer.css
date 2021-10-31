@@ -1,0 +1,14 @@
+.offer-price, .offer-rating{
+    color: #262339;
+}
+.offer-btn{
+    background-color: #262339;
+}
+
+.offer-icon{
+    color: #e04f67;
+}
+.offer-btn:hover{
+    background-color: #e04f67;
+   color: white;
+}
